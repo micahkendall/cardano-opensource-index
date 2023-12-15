@@ -5,7 +5,7 @@
 | Project Name       | Protocol Opensource | Level of OpenSource |   |   |
 |--------------------|---------------------|---------------------|---|---|
 | Indigo             | Yes                 | Full                |   |   |
-| Minswap            | No                  | None                |   |   |
+| Minswap            | No                  | SDK                 |   |   |
 | Liqwid             | No                  | Governance          |   |   |
 | Djed Stablecoin    | Yes                 | Full                |   |   |
 | Astarter           | ?                   | ?                   |   |   |
