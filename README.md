@@ -39,9 +39,9 @@ note: Sundae & Liqwid Labs both make significant OS contributions however it is 
 | ![](https://liqwid.finance/images/icon/logo.svg) | Liqwid             | No*                  | Governance          |   | *Liqwid has opensourced various other components but have not opensourced their main smart contracts.  |
 | ![](https://djed.xyz/static/media/logo.de09f990f1a0b5bc8000.svg) | Djed Stablecoin    | Yes                 | Full                |   |   |
 | | Astarter           | ?                   | ?                   |   |   |
-| ![](https://muesliswap.com/static/media/muesliswap.86e5affdd1cbde9ed769.webp) | MuesliSwap         | Yes                   | ?                   |  https://github.com/lenfiLabs/lenfi-smart-contracts |   |
+| ![](https://muesliswap.com/static/media/muesliswap.86e5affdd1cbde9ed769.webp) | MuesliSwap         | Yes                   | ?                   | https://github.com/MuesliSwapTeam/muesliswap-cardano-contracts |   |
 | ![](https://app.vyfi.io/images/vyfi-blank-logo.png) | VyFinance          | No                   | ?                   |   |   |
-| ![](https://lenfi.io/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FNavbarLogo.5a744377.svg&w=384&q=75) | Lenfi              | Yes                 | Full                |   |   |
+| ![](https://lenfi.io/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FNavbarLogo.5a744377.svg&w=384&q=75) | Lenfi              | Yes                 | Full                | https://github.com/lenfiLabs/lenfi-smart-contracts |   |
 | ![](https://www.optim.finance/assets/optim.svg) | Optim Finance      | No*                   | No                   |   | *their team in principle support OS but can't OS right now for whatever reasons  |
 | ![](https://pbs.twimg.com/profile_images/1612367031457792002/e4UOYgqb_400x400.png) | WingRiders         | No                   | ?                   |   |   |
 | ![](https://pbs.twimg.com/profile_images/1573111846579617794/jftnVq8h_400x400.jpg) | SundaeSwap         | No                   | ?                   |   |   |
