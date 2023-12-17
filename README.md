@@ -1,5 +1,11 @@
 # cardano-opensource-index
 
+Ethos:
+"In the real world, you would never ask someone to sign a contract that they cant read. " - @phil_uplc twitter
+"This culture of making excuses for "decentralized" applications with closed-source smart contracts needs to stop.
+**Your application is not a DApp if your smart contracts cannot be independently reviewed** by the public for backdoors / master-keys. " - @phil_uplc twitter
+"All closed source code can have some backdoors to steal your funds" - @notjuve twitter
+
 Some dishonourable mentions:
 - *Liqwid* advertises as "DeFi" (decentralised finance) despite not open-sourcing their main protocol contracts.
 - *VyFi* to my knowledge operates as DeX but has not open-sourced ther main contracts. 
