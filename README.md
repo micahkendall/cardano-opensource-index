@@ -2,7 +2,7 @@
 
 To contributors: Please help me fill this out with accurate data.
 
-Ethos:
+## Ethos:
 
 "In the real world, you would never ask someone to sign a contract that they cant read. " - @phil_uplc twitter
 
@@ -12,7 +12,7 @@ Ethos:
 "All closed source code can have some backdoors to steal your funds" - @notjuve twitter
 
 
-Some dishonourable mentions:
+### Some dishonourable mentions:
 - *Liqwid* advertises as "DeFi" (decentralised finance) despite not open-sourcing their main protocol contracts.
 - *VyFi* to my knowledge operates as DeX but has not open-sourced ther main contracts. 
 - *Optim* calls itself "decentralization advocates" despite not open-sourcing their main protocol contracts.
@@ -21,7 +21,7 @@ Some dishonourable mentions:
 
 note: Sundae & Liqwid Labs both make significant OS contributions however it is a smudge against them that they do not open-source their protocol smart contracts.
 
-Some honourable mentions:
+### Some honourable mentions:
 - *Indigo* is a fully-fledged protocol, and one of the largest which is also completely open-source.
 - *LenFi* v1 has been open-source and has already open-sourced v2 before launch.
 - *Spectrum-Finance* (soon to be splash) is probably the only DeX which is actually decentralised.
