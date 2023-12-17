@@ -25,7 +25,7 @@ Some honourable mentions:
 | MuesliSwap         | Yes                   | ?                   |  https://github.com/lenfiLabs/lenfi-smart-contracts |   |
 | VyFinance          | No                   | ?                   |   |   |
 | Lenfi              | Yes                 | Full                |   |   |
-| Optim Finance      | No*                   | No                   |   | *zygomeb in principle supports OS but can't OS right now for whatever reasons  |
+| Optim Finance      | No*                   | No                   |   | *their team in principle support OS but can't OS right now for whatever reasons  |
 | WingRiders         | No                   | ?                   |   |   |
 | SundaeSwap         | No                   | ?                   |   |   |
 | Spectrum Finance   | Yes                 | Full                |   |   |
