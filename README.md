@@ -18,7 +18,7 @@ Some honourable mentions:
 | Project Name       | Protocol Opensource | Level of OpenSource | Link  | *  |
 |--------------------|---------------------|---------------------|---|---|
 | Indigo             | Yes                 | Full                | https://github.com/IndigoProtocol/indigo-smart-contracts  |   |
-| Minswap            | Yes*                  | SDK                 | https://github.com/CatspersCoffee/contracts  | V1 source is available, however when Wingriders found a vulnerability they were allegedly blackmailed and closed their source.  |
+| Minswap            | Yes*                  | Partial                 | https://github.com/CatspersCoffee/contracts  | V1 source is available, however when Wingriders found a vulnerability they were allegedly blackmailed and closed their source. Most recent, corrected contracts I can not find.  |
 | Liqwid             | No*                  | Governance          |   | *Liqwid has opensourced various other components but have not opensourced their main smart contracts.  |
 | Djed Stablecoin    | Yes                 | Full                |   |   |
 | Astarter           | ?                   | ?                   |   |   |
