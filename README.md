@@ -51,5 +51,5 @@ Some honourable mentions:
 | | ADAX Pro           | No*                   | ?                   |   |  *project is seemingly dead |
 | ![](https://3964467418-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-M_oxWvdScPMaJMzf8V0%2Fuploads%2FfElZZkA6893vtZLN9Eqo%2FMELD_gitbook_newlogo-01.png?alt=media&token=dffd7f40-053b-481c-8a55-1f2dc45a34e6) | Meld               | Yes*                   | ?                   |   |  *opensource in spite of not being deployed. They might not have a commitment to Cardano but they have done better than every closed source project on this list.  |
 | | MeowSwapFi         | No*                   | ?                   |   | *Seemingly dead  |
-| ![](https://www.geniusyield.co/css/img/logoWithBlack.png) | Genius Yield       | ?                   | ?                   |   |   |
+|  ![](https://www.geniusyield.co/css/img/logo-new.png)  | Genius Yield       | ?                   | ?                   |   |   |
 | |                    |                     |                     |   |   |
