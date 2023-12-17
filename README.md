@@ -31,6 +31,7 @@ note: Sundae & Liqwid Labs both make significant OS contributions however it is 
 |-|--------------------|---------------------|---------------------|---|---|
 | ![](https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img/https://indigoprotocol.io/wp-content/uploads/2022/01/Indigo-Brand-Logo-Bigger.png) | Indigo             | Yes                 | Full                | https://github.com/IndigoProtocol/indigo-smart-contracts  | disclosure: author of this document is building a competitor to Indigo  |
 | ![](https://minswap.org/wp-content/uploads/2022/03/Frame-9.svg) | Minswap            | Yes*                  | Partial                 | https://github.com/CatspersCoffee/contracts  | V1 source is available, however when Wingriders found a vulnerability they were allegedly blackmailed and closed their source. Most recent, corrected contracts I can not find.  |
+| ![](https://static.jpgstoreapis.com/icons/jpg-logo-season2-dark.svg) | Jpgstore | Yes | Full | https://github.com/jpg-store/contract-v2 https://github.com/jpg-store/contracts-v3 | |
 | ![](https://liqwid.finance/images/icon/logo.svg) | Liqwid             | No*                  | Governance          |   | *Liqwid has opensourced various other components but have not opensourced their main smart contracts.  |
 | ![](https://djed.xyz/static/media/logo.de09f990f1a0b5bc8000.svg) | Djed Stablecoin    | Yes                 | Full                |   |   |
 | | Astarter           | ?                   | ?                   |   |   |
