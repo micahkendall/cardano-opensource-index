@@ -12,12 +12,14 @@ To contributors: Please help me fill this out with accurate data.
 "All closed source code can have some backdoors to steal your funds" - @notjuve twitter
 
 
-### Some dishonourable mentions:
-- *Liqwid* advertises as "DeFi" (decentralised finance) despite not open-sourcing their main protocol contracts.
-- *VyFi* to my knowledge operates as DeX but has not open-sourced ther main contracts. 
-- *Optim* calls itself "decentralization advocates" despite not open-sourcing their main protocol contracts.
-- *WingRiders* are probably the biggest scumbags on Cardano. Also closed source "DeX".
-- *SundaeSwap* says they build "decentralized software" however do not meet the most basic tenant of decentralisation, making their main protocol smart contracts open-source.
+### Dishonourable Mentions:
+| Name | Logo | Why |
+|--|--|----------|
+| *Liqwid Finance* | ![](https://liqwid.finance/images/icon/logo.svg) | advertises as "DeFi" (decentralised finance) despite not open-sourcing their main protocol contracts. |
+| *VyFi* | ![](https://app.vyfi.io/images/vyfi-blank-logo.png) | to my knowledge operates as DeX but has not open-sourced ther main contracts. |
+| *Optim Finance* | ![](https://www.optim.finance/assets/optim.svg) | calls itself "decentralization advocates" despite not open-sourcing their main protocol contracts. |
+| *WingRiders* | ![](https://pbs.twimg.com/profile_images/1612367031457792002/e4UOYgqb_400x400.png) | are probably the biggest scumbags on Cardano. Also closed source "DeX". |
+| *SundaeSwap* | ![](https://pbs.twimg.com/profile_images/1573111846579617794/jftnVq8h_400x400.jpg) |  says they build "decentralized software" however do not meet the most basic tenant of decentralisation, making their main protocol smart contracts open-source.
 
 note: Sundae & Liqwid Labs both make significant OS contributions however it is a smudge against them that they do not open-source their protocol smart contracts.
 
@@ -27,6 +29,8 @@ note: Sundae & Liqwid Labs both make significant OS contributions however it is 
 - *Spectrum-Finance* (soon to be splash) is probably the only DeX which is actually decentralised.
 - *Danogo* is a cool project, would like to see more bonds some day.
 
+
+### Data:
 | Project logo | Project Name       | Protocol Opensource | Level of OpenSource | Link  | *  |
 |-|--------------------|---------------------|---------------------|---|---|
 | ![](https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img/https://indigoprotocol.io/wp-content/uploads/2022/01/Indigo-Brand-Logo-Bigger.png) | Indigo             | Yes                 | Full                | https://github.com/IndigoProtocol/indigo-smart-contracts  | disclosure: author of this document is building a competitor to Indigo  |
