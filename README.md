@@ -1,6 +1,7 @@
 # cardano-opensource-index
 
 Ethos:
+
 "In the real world, you would never ask someone to sign a contract that they cant read. " - @phil_uplc twitter
 
 "This culture of making excuses for "decentralized" applications with closed-source smart contracts needs to stop.
