@@ -21,10 +21,10 @@ To contributors: Please help me fill this out with accurate data.
 | Name             | Logo                 | Why                                                                                                   |
 | ---------------- | -------------------- | ----------------------------------------------------------------------------------------------------- |
 | _Liqwid Finance_ | ![][Liqwid Logo]     | advertises as "DeFi" (decentralised finance) despite not open-sourcing their main protocol contracts. |
-| _VyFi_           | ![][VyFinance Logo]  | to my knowledge operates as DeX but has not open-sourced ther main contracts.                         |
+| _VyFi_           | ![][VyFinance Logo]  | to my knowledge operates as DeX but has not open-sourced their main contracts.                         |
 | _Optim Finance_  | ![][Optim Logo]      | calls itself "decentralization advocates" despite not open-sourcing their main protocol contracts.    |
 | _WingRiders_     | ![][WingsRider Logo] | also closed source "DeX".                                                                             |
-| _SundaeSwap_     | ![][SundaeSwap Logo] | build "decentralized software" however do not meet the most basic tenant of decentralisation          |
+| _SundaeSwap_     | ![][SundaeSwap Logo] | build "decentralized software" however do not meet the most basic tenet of decentralisation          |
 
 > [!NOTE]
 > Sundae & Liqwid Labs both make significant OS contributions however it is a smudge against them that they do not open-source their protocol smart contracts.
