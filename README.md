@@ -47,8 +47,8 @@ To contributors: Please help me fill this out with accurate data.
 | ![][Lenfi Logo]            | Lenfi            | Yes                 | Full                | [Lenfi on GitHub](https://github.com/lenfiLabs/lenfi-smart-contracts)                                                              |                                                                                                                   |
 | ![][Cerra Logo]            | Cerra.io         | Yes                 | Full                | [Cerra.io on GitHub](https://github.com/cerraio/lending-plutus)                                                                    |                                                                                                                   |
 | ![][Paima Logo]            | Paima Engine     | Yes\*               | Full                | [Paima Engine on GitHub](https://github.com/PaimaStudios/paima-engine/)                                                            | \*Paima Engine is free for open-source projects, but has additional terms for closed-sourced commercial projects. |
-| ![][Spectrum Finance Logo] | Spectrum Finance | Yes                 | Full                |                                                                                                                                    |                                                                                                                   |
-| ![][Djed Logo]             | Djed Stablecoin  | Yes                 | Full                |                                                                                                                                    |                                                                                                                   |
+| ![][Spectrum Finance Logo] | Spectrum Finance | Yes                 | Full                | [Spectrum Finance on GitHub](https://github.com/spectrum-finance/cardano-dex-contracts)                                                                                                                                   |                                                                                                                   |
+| ![][Anastasia Labs Logo]   | Discovery        | Yes                 | Full                |  [Discovery on GitHub](https://github.com/Anastasia-Labs/discovery/)                                                                                                                                              |                                                                                                                   |
 
 #### Partial Open Source
 
@@ -66,8 +66,8 @@ To contributors: Please help me fill this out with accurate data.
 | Project logo            | Project Name  | Protocol Opensource | Level of OpenSource | Link | Reference                                                                                              |
 | ----------------------- | ------------- | ------------------- | ------------------- | ---- | ------------------------------------------------------------------------------------------------------ |
 | ![][Liqwid Logo]        | Liqwid        | No                  | Governance          |      | \*Liqwid has opensourced various other components but have not opensourced their main smart contracts. |
-| ![][Optim Logo]         | Optim Finance | No\*                | No                  |      | \*their team in principle support OS but can't OS right now for whatever reasons                       |
-| ![][Levvy Finance Logo] | Levvy Finance | No                  | ?                   |      |                                                                                                        |
+| ![][Optim Logo]         | Optim Finance | No\*                | No                  |      | \* their team in principle support OS but can't OS right now for whatever reasons                      |
+| ![][Levvy Finance Logo] | Levvy Finance | No                  | No                  |      | \* https://x.com/ponziratti/status/1736412671036084725?s=20 No interest in open-source.                |
 | ![][SundaeSwap Logo]    | SundaeSwap    | No                  | ?                   |      |                                                                                                        |
 | ![][VyFinance Logo]     | VyFinance     | No                  | ?                   |      |                                                                                                        |
 | ![][WingsRider Logo]    | WingRiders    | No                  | ?                   |      |                                                                                                        |
@@ -84,6 +84,8 @@ To contributors: Please help me fill this out with accurate data.
 | ![][FluidTokens Logo] | FluidTokens  | ?                   | ?                   |      |           |
 
 <!-- Links  -->
+
+[Anastasia Labs Logo]: https://pbs.twimg.com/profile_banners/1631365757513748480/1694253013/600x200
 
 [Indigo Logo]: https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img/https://indigoprotocol.io/wp-content/uploads/2022/01/Indigo-Brand-Logo-Bigger.png
 
