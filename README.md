@@ -48,7 +48,8 @@ To contributors: Please help me fill this out with accurate data.
 | ![][Cerra Logo]            | Cerra.io         | Yes                 | Full                | [Cerra.io on GitHub](https://github.com/cerraio/lending-plutus)                                                                    |                                                                                                                   |
 | ![][Paima Logo]            | Paima Engine     | Yes\*               | Full                | [Paima Engine on GitHub](https://github.com/PaimaStudios/paima-engine/)                                                            | \*Paima Engine is free for open-source projects, but has additional terms for closed-sourced commercial projects. |
 | ![][Spectrum Finance Logo] | Spectrum Finance | Yes                 | Full                | [Spectrum Finance on GitHub](https://github.com/spectrum-finance/cardano-dex-contracts)                                                                                                                                   |                                                                                                                   |
-| ![][Anastasia Labs Logo]   | Discovery        | Yes                 | Full                |  [Discovery on GitHub](https://github.com/Anastasia-Labs/discovery/)                                                                                                                                              |                                                                                                                   |
+| ![][Anastasia Labs Logo]   | Discovery        | Yes                 | Full                |  [Discovery on GitHub](https://github.com/Anastasia-Labs/discovery/)                                                                                                                                              |            
+| ![][MetaDEX Logo]          | MetaDEX.fi       | Yes                 | Full                |  [MetaDEX.fi on GitHub](https://github.com/metadex-fi)                                                                                                                    |            |
 
 #### Partial Open Source
 
@@ -84,6 +85,8 @@ To contributors: Please help me fill this out with accurate data.
 | ![][FluidTokens Logo] | FluidTokens  | ?                   | ?                   |      |           |
 
 <!-- Links  -->
+
+[MetaDEX Logo]: https://avatars.githubusercontent.com/u/92870680?s=400&u=3e8a05e1ef602342127dc1bf491c689206c6b433&v=4
 
 [Anastasia Labs Logo]: https://pbs.twimg.com/profile_banners/1631365757513748480/1694253013/600x200
 
