@@ -40,7 +40,7 @@ To contributors: Please help me fill this out with accurate data.
 
 #### Full Open Source
 
-| Project logo               | Project Name     | Open Source | Plutus v2+ | Link                                                                                                                               | Reference                                                                                                         |
+| Project logo               | Project Name     | Open Source | Plutus Version | Link                                                                                                                               | Reference                                                                                                         |
 | -------------------------- | ---------------- | ------------------- | ------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
 | ![][Indigo Logo]           | Indigo           | Yes (Full)            | ?                | [Indigo on GitHub](https://github.com/IndigoProtocol/indigo-smart-contracts)                                                       | disclosure: author of this document is building a competitor to Indigo                                            |
 | ![][Jpg Store Logo]        | Jpgstore         | Yes (Full)            | ?                | [Jpgstore Contract V2](https://github.com/jpg-store/contract-v2) [Jpgstore Contract V3](https://github.com/jpg-store/contracts-v3) |                                                                                                                   |
@@ -53,7 +53,7 @@ To contributors: Please help me fill this out with accurate data.
 
 #### Partial Open Source
 
-| Project logo         | Project Name | Open Source | Plutus v2+ | Link                                                                                   | Reference                                                                                                                                                                       |
+| Project logo         | Project Name | Open Source | Plutus Version | Link                                                                                   | Reference                                                                                                                                                                       |
 | -------------------- | ------------ | ------------------- | ------------------- | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![][Minswap Logo]    | Minswap      | Yes\* (Partial)     | ?                   | [Minswap on GitHub](https://github.com/CatspersCoffee/contracts)                       | V1 source is available, however when Wingriders found a vulnerability they were allegedly blackmailed and closed their source. Most recent, corrected contracts I can not find. |
 | ![][Muesliswap Logo] | MuesliSwap   | Yes                 | ?                   | [MuesliSwap on GitHub](https://github.com/MuesliSwapTeam/muesliswap-cardano-contracts) |                                                                                                                                                                                 |
@@ -64,7 +64,7 @@ To contributors: Please help me fill this out with accurate data.
 |                      | CherryLend   | Yes (Uses other protocol) | ?                                                                                                      |                                                                                                                                                                                 |
 #### Closed Source
 
-| Project logo            | Project Name  | Open Source | Plutus v2+ | Link | Reference                                                                                              |
+| Project logo            | Project Name  | Open Source | Plutus Version | Link | Reference                                                                                              |
 | ----------------------- | ------------- | ------------------- | ------------------- | ---- | ------------------------------------------------------------------------------------------------------ |
 | ![][Liqwid Logo]        | Liqwid        | No  (Governance)    | ?          |      | \*Liqwid has opensourced various other components but have not opensourced their main smart contracts. |
 | ![][Optim Logo]         | Optim Finance | No\*                | ?                  |      | \* their team in principle support OS but can't OS right now for whatever reasons                      |
