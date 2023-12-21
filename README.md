@@ -78,7 +78,7 @@ To contributors: Please help me fill this out with accurate data.
 
 #### Unknown
 
-| Project logo          | Project Name | Protocol Opensource | Level of OpenSource | Link | Reference |
+| Project logo          | Project Name | Open Source         | Plutus Version      | Link | Reference |
 | --------------------- | ------------ | ------------------- | ------------------- | ---- | --------- |
 |                       | Astarter     | ?                   | ?                   |      |           |
 | ![][Genius Logo]      | Genius Yield | ?                   | ?                   |      |           |
