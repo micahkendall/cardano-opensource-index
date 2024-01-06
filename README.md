@@ -4,6 +4,8 @@ To contributors: Please help me fill this out with accurate data.
 
 To developers: I'm delighted to shill you an unstable fork of lucid: [translucent](https://github.com/txpipe/translucent)
 
+[WALLETS!](WALLETS.md)
+
 ## Ethos
 
 > [!IMPORTANT]
