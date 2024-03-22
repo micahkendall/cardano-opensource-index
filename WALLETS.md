@@ -44,7 +44,9 @@ To contributors: Please help me fill this out with accurate data.
  ![][Begin Logo]            | Begin            | No (Closed)       | [Begin on GitHub](https://github.com/B58-Finance)                                                                        |                                                                                                                   |
  ![][Exodus Logo]           | Exodus           | No (Closed)       | [Exodus on GitHub](https://github.com/ExodusMovement)                                                                      |                                                                                                                   |
  ![][Nufi Logo]             | Nufi             | No (Closed)       | [Nufi on GitHub](https://github.com/nufi-official)                                                                          |                                                                                                                   |
-![][Mantium Logo]            | Mantium          | No (Closed)       | N/A                                                                          |                                                                                                                   |
+ ![][Mantium Logo]          | Mantium          | No (Closed)       | N/A                                                                          |                                                                                                                   |
+
+
 
 #### Hardware Wallets
 
