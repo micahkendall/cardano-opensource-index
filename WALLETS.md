@@ -44,6 +44,9 @@ To contributors: Please help me fill this out with accurate data.
  ![][Begin Logo]            | Begin            | No (Closed)       | [Begin on GitHub](https://github.com/B58-Finance)                                                                        |                                                                                                                   |
  ![][Exodus Logo]           | Exodus           | No (Closed)       | [Exodus on GitHub](https://github.com/ExodusMovement)                                                                      |                                                                                                                   |
  ![][Nufi Logo]             | Nufi             | No (Closed)       | [Nufi on GitHub](https://github.com/nufi-official)                                                                          |                                                                                                                   |
+ ![][Mantium Logo]          | Mantium          | No (Closed)       | N/A                                                                          |                                                                                                                   |
+
+
 
 #### Hardware Wallets
 
@@ -80,7 +83,7 @@ To contributors: Please help me fill this out with accurate data.
 
 [Begin Logo]: https://pbs.twimg.com/profile_images/1609855323342340096/AWLkKdcn_400x400.jpg
 
-[Exodus Logo]: https://pbs.twimg.com/profile_images/1741479574834180096/vmzPocwl_400x400.jpg
+[Exodus Logo]: https://pbs.twimg.com/profile_images/1742953577104965632/rgWp3v7G_400x400.jpg
 
 [Nufi Logo]: https://pbs.twimg.com/profile_images/1478654070005145601/GWtE11ic_400x400.png
 
@@ -89,3 +92,5 @@ To contributors: Please help me fill this out with accurate data.
 [Trezor Logo]: https://pbs.twimg.com/profile_images/1436324111182094350/wWw3mf6n_400x400.jpg
 
 [Keystone Logo]: https://pbs.twimg.com/profile_images/1740611632223449089/DVTBDIkL_400x400.jpg
+
+[Mantium Logo]: https://pbs.twimg.com/profile_images/1612118160660135937/y9oxJY8v_400x400.jpg
