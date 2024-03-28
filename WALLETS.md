@@ -25,12 +25,13 @@ To contributors: Please help me fill this out with accurate data.
  ![][Nami Logo]             | Nami             | Yes (Full)            | [Nami on GitHub](https://github.com/input-output-hk/nami)                                                                                       |                                                                                                                   |
  ![][BroClan Logo]          | BroClan Wallet   | Yes (Full)            | [BroClan Wallet on GitHub](https://github.com/leo42/BroClanWallet)                                                                          |                                                                                                                   |
  ![][AdaLite Logo]          | AdaLite          | Yes (Full)            | [AdaLite on GitHub](https://github.com/vacuumlabs/adalite)                                                                                   |                                                                                                                   |
- ![][Begin Logo]            | Begin            | Yes (Core SDK)       | [Begin on GitHub](https://github.com/BeginWallet/begin-core)                                                                        |                                                                                                                   |
+
 
 #### Partial Open Source
 
  Project logo               | Project Name     | Open Source | Link                                                                                                                               | Reference                                                                                                         |
  -------------------------- | ---------------- | ------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+ ![][Begin Logo]            | Begin            | Yes (Core SDK)       | [Begin on GitHub](https://github.com/BeginWallet/begin-core)                                                                        |                                                                                                                   |
  ![][GameChanger Logo]      | GameChanger Wallet | Partial (Library and CLI only)          | [GameChanger Wallet on GitHub](https://github.com/GameChangerWallet)                                                                  |                                                                                                                   |
 
 #### Closed Source
