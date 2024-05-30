@@ -1,0 +1,18 @@
+{
+  "name": "cardano-opensource-index",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "json-schema-to-ts": "^3.1.0",
+    "jsonschema": "^1.4.1"
+  },
+  "scripts": {
+    "check": "bun index.ts"
+  }
+}

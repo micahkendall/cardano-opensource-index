@@ -1,0 +1,207 @@
+{
+  "logos": {
+    "Genius Yield": "https://www.geniusyield.co/css/img/logo-new.png",
+    "FluidTokens": "https://fluidtokens.com/static/media/logo.461d3a250fd296c5e61ed5cafb27c7a6.svg",
+    "Minswap": "https://minswap.org/wp-content/uploads/2022/03/Frame-9.svg",
+    "Jpgstore": "https://static.jpgstoreapis.com/icons/jpg-logo-season2-dark.svg",
+    "Lenfi": "https://lenfi.io/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FNavbarLogo.5a744377.svg&w=384&q=75",
+    "Cerra.io": "https://cerra.io/static/media/hero.290bce0c.jpg",
+    "Paima Engine": "https://paimastudios.com/images/paima-logo.svg",
+    "Spectrum Finance": "https://pbs.twimg.com/profile_images/1636004217843220480/ly0W1Ixq_400x400.jpg",
+    "Discovery": "https://pbs.twimg.com/profile_banners/1631365757513748480/1694253013/600x200",
+    "MetaDEX.fi": "https://avatars.githubusercontent.com/u/92870680?s=400&u=3e8a05e1ef602342127dc1bf491c689206c6b433&v=4",
+    "SundaeSwap": "https://pbs.twimg.com/profile_images/1573111846579617794/jftnVq8h_400x400.jpg",
+    "Indigo": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img/https://indigoprotocol.io/wp-content/uploads/2022/01/Indigo-Brand-Logo-Bigger.png",
+    "MuesliSwap": "https://muesliswap.com/static/media/muesliswap.86e5affdd1cbde9ed769.webp",
+    "CSWAP DEX": "https://www.cswap.info/static/media/green-logo.3e2de991.svg",
+    "Danogo": "https://lh3.googleusercontent.com/RkL4Flyc1_nGqSst5uMhSgsnmHwDPwYkBENESu9q0k5T-nO3JMgfAJGk-hTFIIySEavcS6LqgKtrBXJxhLM_D3VlIUGKhm6W=w160-rw",
+    "Meld": "https://3964467418-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-M_oxWvdScPMaJMzf8V0%2Fuploads%2FfElZZkA6893vtZLN9Eqo%2FMELD_gitbook_newlogo-01.png?alt=media&token=dffd7f40-053b-481c-8a55-1f2dc45a34e6",
+    "TeddySwap": "https://pbs.twimg.com/profile_images/1718987221251108864/TNsoOzrQ_400x400.jpg",
+    "Liqwid": "https://liqwid.finance/images/icon/logo.svg",
+    "Optim Finance": "https://www.optim.finance/assets/optim.svg",
+    "Levvy Finance": "https://pbs.twimg.com/profile_images/1696890987056955394/v27tlEe9_400x400.jpg",
+    "VyFinance": "https://app.vyfi.io/images/vyfi-blank-logo.png",
+    "WingRiders": "https://pbs.twimg.com/profile_images/1612367031457792002/e4UOYgqb_400x400.png"
+  },
+  "unknown": [
+    {
+      "projectName": "Astarter",
+      "openSource": "?",
+      "plutusVersion": "?",
+      "reference": ""
+    },
+    {
+      "projectName": "Genius Yield",
+      "openSource": "?",
+      "plutusVersion": "?",
+      "reference": ""
+    },
+    {
+      "projectName": "FluidTokens",
+      "openSource": "?",
+      "plutusVersion": "?",
+      "reference": ""
+    }
+  ],
+  "fullOpenSource": [
+    {
+      "projectName": "Minswap",
+      "openSource": "Yes",
+      "plutusVersion": "?",
+      "link": "https://github.com/minswap/minswap-dex-v2",
+      "reference": "V2 is fully open-source"
+    },
+    {
+      "projectName": "Jpgstore",
+      "openSource": "Yes (Full)",
+      "plutusVersion": "?",
+      "link": "https://github.com/jpg-store/contract-v2",
+      "reference": ""
+    },
+    {
+      "projectName": "Lenfi",
+      "openSource": "Yes (Full)",
+      "plutusVersion": "?",
+      "link": "https://github.com/lenfiLabs/lenfi-smart-contracts",
+      "reference": ""
+    },
+    {
+      "projectName": "Cerra.io",
+      "openSource": "Yes (Full)",
+      "plutusVersion": "?",
+      "link": "https://github.com/cerraio/lending-plutus",
+      "reference": ""
+    },
+    {
+      "projectName": "Paima Engine",
+      "openSource": "Yes* (Full)",
+      "plutusVersion": "?",
+      "link": "https://github.com/PaimaStudios/paima-engine/",
+      "reference": "*Paima Engine is free for open-source projects, but has additional terms for closed-sourced commercial projects."
+    },
+    {
+      "projectName": "Spectrum Finance",
+      "openSource": "Yes (Full)",
+      "plutusVersion": "?",
+      "link": "https://github.com/spectrum-finance/cardano-dex-contracts",
+      "reference": ""
+    },
+    {
+      "projectName": "Discovery",
+      "openSource": "Yes (Full)",
+      "plutusVersion": "?",
+      "link": "https://github.com/Anastasia-Labs/discovery/",
+      "reference": ""
+    },
+    {
+      "projectName": "MetaDEX.fi",
+      "openSource": "Yes (Full)",
+      "plutusVersion": "?",
+      "link": "https://github.com/metadex-fi",
+      "reference": ""
+    }
+  ],
+  "partialOpenSource": [
+    {
+      "projectName": "SundaeSwap",
+      "openSource": "V3 is, V1 is not",
+      "plutusVersion": "?",
+      "link": "https://github.com/SundaeSwap-finance/sundae-contracts",
+      "reference": ""
+    },
+    {
+      "projectName": "Indigo",
+      "openSource": "Partial* V2 not OS yet",
+      "plutusVersion": "?",
+      "link": "https://github.com/IndigoProtocol/indigo-smart-contracts",
+      "reference": "disclosure: author of this document is building a competitor to Indigo"
+    },
+    {
+      "projectName": "MuesliSwap",
+      "openSource": "Yes",
+      "plutusVersion": "?",
+      "link": "https://github.com/MuesliSwapTeam/muesliswap-cardano-contracts",
+      "reference": ""
+    },
+    {
+      "projectName": "CSWAP DEX",
+      "openSource": "Yes*",
+      "plutusVersion": "?",
+      "reference": "* Allegedly opensource but I cannot find the repository"
+    },
+    {
+      "projectName": "Danogo",
+      "openSource": "Yes*",
+      "plutusVersion": "?",
+      "reference": "* ironic that an optim-derived product is opensource but optim isn't"
+    },
+    {
+      "projectName": "Meld",
+      "openSource": "Yes*",
+      "plutusVersion": "?",
+      "reference": "*opensource in spite of not being deployed. They might not have a commitment to Cardano but they have done better than every closed source project on this list."
+    },
+    {
+      "projectName": "TeddySwap",
+      "openSource": "Yes (Uses other protocol)",
+      "plutusVersion": "?",
+      "reference": ""
+    },
+    {
+      "projectName": "CherryLend",
+      "openSource": "Yes (Uses other protocol)",
+      "plutusVersion": "?",
+      "reference": ""
+    }
+  ],
+  "closedSource": [
+    {
+      "projectName": "Liqwid",
+      "openSource": "No (Governance)",
+      "plutusVersion": "?",
+      "reference": "*Liqwid has opensourced various other components but have not opensourced their main smart contracts."
+    },
+    {
+      "projectName": "Optim Finance",
+      "openSource": "No*",
+      "plutusVersion": "?",
+      "reference": "* their team in principle support OS but can't OS right now for whatever reasons"
+    },
+    {
+      "projectName": "Levvy Finance",
+      "openSource": "No",
+      "plutusVersion": "?",
+      "reference": "* https://x.com/ponziratti/status/1736412671036084725?s=20 No interest in open-source."
+    },
+    {
+      "projectName": "VyFinance",
+      "openSource": "No",
+      "plutusVersion": "?",
+      "reference": ""
+    },
+    {
+      "projectName": "WingRiders",
+      "openSource": "No",
+      "plutusVersion": "?",
+      "reference": ""
+    },
+    {
+      "projectName": "Lending Pond",
+      "openSource": "No",
+      "plutusVersion": "?",
+      "reference": ""
+    },
+    {
+      "projectName": "ADAX Pro",
+      "openSource": "No*",
+      "plutusVersion": "?",
+      "reference": "*project is seemingly dead"
+    },
+    {
+      "projectName": "MeoswapFi",
+      "openSource": "No*",
+      "plutusVersion": "?",
+      "reference": "*project is seemingly dead"
+    }
+  ]
+}
