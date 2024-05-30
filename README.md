@@ -28,17 +28,9 @@ To developers: I'm delighted to shill you an unstable fork of lucid: [translucen
 | _VyFi_           | ![][VyFinance Logo]  | to my knowledge operates as DeX but has not open-sourced their main contracts.                         |
 | _Optim Finance_  | ![][Optim Logo]      | calls itself "decentralization advocates" despite not open-sourcing their main protocol contracts.    |
 | _WingRiders_     | ![][WingsRider Logo] | also closed source "DeX".                                                                             |
-| _SundaeSwap_     | ![][SundaeSwap Logo] | build "decentralized software" however do not meet the most basic tenet of decentralisation          |
 
 > [!NOTE]
-> Sundae & Liqwid Labs both make significant OS contributions however it is a smudge against them that they do not open-source their protocol smart contracts.
-
-### Some honourable mentions
-
-- _Indigo_ is a fully-fledged protocol, and one of the largest which is also completely open-source.
-- _LenFi_ v1 has been open-source and has already open-sourced v2 before launch.
-- _Spectrum-Finance_ (soon to be splash) is probably the only DeX which is actually decentralised.
-- _Danogo_ is a cool project, would like to see more bonds some day.
+> Liqwid Labs makes significant OS contributions however it is a smudge against them that they do not open-source their protocol smart contracts.
 
 ### Data
 
@@ -60,6 +52,7 @@ To developers: I'm delighted to shill you an unstable fork of lucid: [translucen
 | Project logo         | Project Name | Open Source | Plutus Version | Link                                                                                   | Reference                                                                                                                                                                       |
 | -------------------- | ------------ | ------------------- | ------------------- | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![][Minswap Logo]    | Minswap      | Yes\* (Partial)     | ?                   | [Minswap on GitHub](https://github.com/CatspersCoffee/contracts)                       | V1 source is available, however when Wingriders found a vulnerability they were allegedly blackmailed and closed their source. Most recent, corrected contracts I can not find. |
+| ![][SundaeSwap Logo]    | SundaeSwap    | V3 is, V1 is not                  | ?                   |      |                                                                                                        |
 | ![][Muesliswap Logo] | MuesliSwap   | Yes                 | ?                   | [MuesliSwap on GitHub](https://github.com/MuesliSwapTeam/muesliswap-cardano-contracts) |                                                                                                                                                                                 |
 | ![][CSWAP Logo]      | CSWAP DEX    | Yes\*               | ?                   |                                                                                        | \* Allegedly opensource but I cannot find the repository                                                                                                                        |
 | ![][Danogo Logo]     | Danogo       | Yes\*               | ?                   |                                                                                        | \* ironic that an optim-derived product is opensource but optim isn't                                                                                                           |
@@ -73,7 +66,6 @@ To developers: I'm delighted to shill you an unstable fork of lucid: [translucen
 | ![][Liqwid Logo]        | Liqwid        | No  (Governance)    | ?          |      | \*Liqwid has opensourced various other components but have not opensourced their main smart contracts. |
 | ![][Optim Logo]         | Optim Finance | No\*                | ?                  |      | \* their team in principle support OS but can't OS right now for whatever reasons                      |
 | ![][Levvy Finance Logo] | Levvy Finance | No                  | ?                  |      | \* https://x.com/ponziratti/status/1736412671036084725?s=20 No interest in open-source.                |
-| ![][SundaeSwap Logo]    | SundaeSwap    | No                  | ?                   |      |                                                                                                        |
 | ![][VyFinance Logo]     | VyFinance     | No                  | ?                   |      |                                                                                                        |
 | ![][WingsRider Logo]    | WingRiders    | No                  | ?                   |      |                                                                                                        |
 |                         | Lending Pond  | No                  | ?                   |      |                                                                                                        |
