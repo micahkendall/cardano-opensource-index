@@ -46,6 +46,7 @@ To developers: Try out [blaze sdk](https://github.com/butaneprotocol/blaze-carda
 | ![][Spectrum Finance Logo] | Spectrum Finance | Yes (Full)            | ?                | [Spectrum Finance on GitHub](https://github.com/spectrum-finance/cardano-dex-contracts)                                                                                                                                   |                                                                                                                   |
 | ![][Anastasia Labs Logo]   | Discovery        | Yes (Full)           | ?                |  [Discovery on GitHub](https://github.com/Anastasia-Labs/discovery/)                                                                                                                                              |            
 | ![][MetaDEX Logo]          | MetaDEX.fi       | Yes (Full)           | ?                |  [MetaDEX.fi on GitHub](https://github.com/metadex-fi)                                                                                                                    |            |
+| ![][Oil Logo]          | Oil       | Yes (Full)           | ?                |  [Oil on GitHub](https://github.com/metadex-fi/oil)                                                                                                                    |            |
 
 #### Partial Open Source
 
@@ -81,6 +82,8 @@ To developers: Try out [blaze sdk](https://github.com/butaneprotocol/blaze-carda
 | ![][FluidTokens Logo] | FluidTokens  | ?                   | ?                   |      |           |
 
 <!-- Links  -->
+
+[Oil Logo]: https://github.com/metadex-fi/oil/blob/main/oil.png
 
 [MetaDEX Logo]: https://avatars.githubusercontent.com/u/92870680?s=400&u=3e8a05e1ef602342127dc1bf491c689206c6b433&v=4
 
